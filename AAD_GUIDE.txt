@@ -1,0 +1,140 @@
+
+https://developers.google.com/certification/associate-android-developer
+https://developers.google.com/certification/associate-android-developer/study-guide
+
+Android core:
+==============
+	To prepare for the Associate Android Developer certification exam, developers should:
+Understand the architecture of the Android system
+Be able to describe the basic building blocks of an Android app
+Know how to build and run an Android app
+Display simple messages in a popup using a Toast or a Snackbar
+Be able to display a message outside your app's UI using Notifications
+Understand how to localize an app
+Be able to schedule a background task using WorkManager
+
+
+Related Course Content
+Android Basics in Kotlin Unit 1 - Kotlin Basics for Android, Pathway 2: Create your first Android app
+Android Basics in Kotlin Unit 1 - Kotlin Basics for Android, Pathway 3: Build a basic layout
+Android Basics in Kotlin Unit 1 - Kotlin Basics for Android, Pathway 4: Add a button to an app
+
+
+
+User interface:
+================
+
+The Android framework enables developers to create useful apps with effective user interface (UIs). Developers need to understand Android’s activities, views, and layouts to create appealing and intuitive UIs for their users.
+
+To prepare for the Associate Android Developer certification exam, developers should:
+
+Understand the Android activity lifecycle
+Be able to create an Activity that displays a Layout
+Be able to construct a UI with ConstraintLayout
+Understand how to create a custom View class and add it to a Layout
+Know how to implement a custom app theme
+Be able to add accessibility hooks to a custom View
+Know how to apply content descriptions to views for accessibility
+Understand how to display items in a RecyclerView
+Be able to bind local data to a RecyclerView list using the Paging library
+Know how to implement menu-based navigation
+Understand how to implement drawer navigation
+
+
+Related Course Content
+Android Basics in Kotlin: Unit 1 - Kotlin Basics for Android, Pathway 3: Build a basic layout
+Android Basics in Kotlin: Unit 1 - Kotlin Basics for Android, Pathway 4: Add a button to an app
+Android Basics in Kotlin: Unit 2 - Layouts, Pathway 2: Get user input in an app: Part 2
+Android Basics in Kotlin: Unit 2 - Layouts, Pathway 3: Display a scrollable list
+Android Basics in Kotlin: Unit 3 - Navigation, Pathway 1: Navigate between screens
+
+
+
+
+User interface:
+================
+
+The Android framework enables developers to create useful apps with effective user interface (UIs). Developers need to understand Android’s activities, views, and layouts to create appealing and intuitive UIs for their users.
+
+To prepare for the Associate Android Developer certification exam, developers should:
+
+Understand the Android activity lifecycle
+Be able to create an Activity that displays a Layout
+Be able to construct a UI with ConstraintLayout
+Understand how to create a custom View class and add it to a Layout
+Know how to implement a custom app theme
+Be able to add accessibility hooks to a custom View
+Know how to apply content descriptions to views for accessibility
+Understand how to display items in a RecyclerView
+Be able to bind local data to a RecyclerView list using the Paging library
+Know how to implement menu-based navigation
+Understand how to implement drawer navigation
+Related Course Content
+Android Basics in Kotlin: Unit 1 - Kotlin Basics for Android, Pathway 3: Build a basic layout
+Android Basics in Kotlin: Unit 1 - Kotlin Basics for Android, Pathway 4: Add a button to an app
+Android Basics in Kotlin: Unit 2 - Layouts, Pathway 2: Get user input in an app: Part 2
+Android Basics in Kotlin: Unit 2 - Layouts, Pathway 3: Display a scrollable list
+Android Basics in Kotlin: Unit 3 - Navigation, Pathway 1: Navigate between screens
+
+
+Data management:
+================
+
+
+bookmark_border
+Many Android apps store and retrieve user information that persists beyond the life of the app.
+
+To prepare for the Associate Android Developer certification exam, developers should:
+
+Understand how to define data using Room entities
+Be able to access Room database with data access object (DAO)
+Know how to observe and respond to changing data using LiveData
+Understand how to use a Repository to mediate data operations
+Be able to read and parse raw resources or asset files
+Be able to create persistent Preference data from user input
+Understand how to change the behavior of the app based on user preferences
+Related Course Content
+Android Basics in Kotlin Unit 3 - Navigation, Pathway 3: Architecture components
+Android Basics in Kotlin Unit 3 - Navigation, Pathway 4: Advanced navigation app examples
+
+
+Debugging:
+=============
+
+
+Debugging is the process of isolating and removing defects in software code. By understanding the debugging tools in Android Studio, Android developers can create reliable and robust applications.
+
+To prepare for the Associate Android Developer certification exam, developers should:
+
+Understand the basic debugging techniques available in Android Studio
+Know how to debug and fix issues with an app's functional behavior and usability
+Be able to use the System Log to output debug information
+Understand how to use breakpoints in Android Studio
+Know how to inspect variables using Android Studio
+Resources
+Android Developers -> Debug your app
+Android Developers -> Write and view logs with Logcat
+Codelabs -> Android Studio debugger
+Codelabs -> Add log statements to your app
+
+
+Testing:
+=========
+
+Testing
+
+bookmark_border
+Software testing is the process of executing a program with the intent of finding errors and abnormal or unexpected behavior. Testing and test-driven development (TDD) is a critically important step of the software development process for all Android developers. It helps to reduce defect rates in commercial and enterprise software.
+
+To prepare for the Associate Android Developer certification exam, developers should:
+
+Thoroughly understand the fundamentals of testing
+Be able to write useful local JUnit tests
+Understand the Espresso UI test framework
+Know how to write useful automated Android tests
+Resources
+Android Developers -> Fundamentals of testing
+Android Developers -> Automate UI tests
+Codelabs -> Unit tests
+Codelabs -> Android Testing -> Unit testing with JUnit and Mockito
+Codelabs -> Android Testing -> Espresso for UI testing
